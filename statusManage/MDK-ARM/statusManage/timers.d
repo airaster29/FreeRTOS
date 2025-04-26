@@ -1,0 +1,15 @@
+statusmanage\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+statusmanage\timers.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdlib.h
+statusmanage\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+statusmanage\timers.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stddef.h
+statusmanage\timers.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdint.h
+statusmanage\timers.o: ../Core/Inc/FreeRTOSConfig.h
+statusmanage\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+statusmanage\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+statusmanage\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+statusmanage\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+statusmanage\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+statusmanage\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+statusmanage\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+statusmanage\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+statusmanage\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

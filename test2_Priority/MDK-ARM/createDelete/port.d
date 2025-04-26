@@ -1,0 +1,12 @@
+createdelete\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+createdelete\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+createdelete\port.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stddef.h
+createdelete\port.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdint.h
+createdelete\port.o: ../Core/Inc/FreeRTOSConfig.h
+createdelete\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+createdelete\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+createdelete\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+createdelete\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+createdelete\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+createdelete\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+createdelete\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

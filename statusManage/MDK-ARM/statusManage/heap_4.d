@@ -1,0 +1,13 @@
+statusmanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+statusmanage\heap_4.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdlib.h
+statusmanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+statusmanage\heap_4.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stddef.h
+statusmanage\heap_4.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdint.h
+statusmanage\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+statusmanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+statusmanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+statusmanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+statusmanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+statusmanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+statusmanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+statusmanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

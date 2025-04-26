@@ -1,0 +1,12 @@
+statusmanage\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+statusmanage\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+statusmanage\port.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stddef.h
+statusmanage\port.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdint.h
+statusmanage\port.o: ../Core/Inc/FreeRTOSConfig.h
+statusmanage\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+statusmanage\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+statusmanage\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+statusmanage\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+statusmanage\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+statusmanage\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+statusmanage\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

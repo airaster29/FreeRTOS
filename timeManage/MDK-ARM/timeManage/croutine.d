@@ -1,0 +1,14 @@
+timemanage\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+timemanage\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+timemanage\croutine.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stddef.h
+timemanage\croutine.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdint.h
+timemanage\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+timemanage\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+timemanage\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+timemanage\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+timemanage\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+timemanage\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+timemanage\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+timemanage\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+timemanage\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+timemanage\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

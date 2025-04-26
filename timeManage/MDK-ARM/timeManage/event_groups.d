@@ -1,0 +1,15 @@
+timemanage\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+timemanage\event_groups.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdlib.h
+timemanage\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+timemanage\event_groups.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stddef.h
+timemanage\event_groups.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdint.h
+timemanage\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+timemanage\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+timemanage\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+timemanage\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+timemanage\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+timemanage\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+timemanage\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+timemanage\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+timemanage\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+timemanage\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

@@ -1,0 +1,13 @@
+timemanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+timemanage\heap_4.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdlib.h
+timemanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+timemanage\heap_4.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stddef.h
+timemanage\heap_4.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdint.h
+timemanage\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+timemanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+timemanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+timemanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+timemanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+timemanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+timemanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+timemanage\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

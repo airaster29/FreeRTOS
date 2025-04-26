@@ -1,0 +1,14 @@
+statusmanage\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+statusmanage\stream_buffer.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdint.h
+statusmanage\stream_buffer.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\string.h
+statusmanage\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+statusmanage\stream_buffer.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stddef.h
+statusmanage\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+statusmanage\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+statusmanage\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+statusmanage\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+statusmanage\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+statusmanage\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+statusmanage\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+statusmanage\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+statusmanage\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

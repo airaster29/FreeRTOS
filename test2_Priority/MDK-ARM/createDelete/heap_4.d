@@ -1,0 +1,13 @@
+createdelete\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+createdelete\heap_4.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdlib.h
+createdelete\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+createdelete\heap_4.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stddef.h
+createdelete\heap_4.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdint.h
+createdelete\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+createdelete\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+createdelete\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+createdelete\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+createdelete\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+createdelete\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+createdelete\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+createdelete\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

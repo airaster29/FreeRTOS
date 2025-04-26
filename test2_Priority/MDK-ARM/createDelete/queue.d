@@ -1,0 +1,15 @@
+createdelete\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+createdelete\queue.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdlib.h
+createdelete\queue.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\string.h
+createdelete\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+createdelete\queue.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stddef.h
+createdelete\queue.o: E:\Keil_mdk\ARM\ARMCOMPILER506\Bin\..\include\stdint.h
+createdelete\queue.o: ../Core/Inc/FreeRTOSConfig.h
+createdelete\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+createdelete\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+createdelete\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+createdelete\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+createdelete\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+createdelete\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+createdelete\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+createdelete\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
